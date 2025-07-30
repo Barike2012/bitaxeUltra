@@ -66,3 +66,5 @@ bitaxe is a fully open source hardware Bitcoin ASIC miner. Ultra is the 3rd majo
 ## Building
 - Check out [building.md](building.md) for PCB ordering tips
 - Check out [assembly.md](assembly.md) for assembly tips
+
+- 
